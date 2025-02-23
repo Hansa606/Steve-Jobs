@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@200;300;400;500;600;700&display=swap');
+
+body {
+    
+    margin-top: 25px;
+   
+}
+
+.Container {
+    margin: auto;
+    width: 75%;
+    border: 4px solid green;
+
+    padding: 10px;
+}
+
+.img-main{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+h1{
+    text-align: center;
+    font-family: anton;
+
+    
+}
+
+h2{
+   text-align: center; 
+}
+h3{
+text-align: center;
+font-family: oswald; 
+}
+
+.descripion{
+    font-family:koho;
+    text-align: center;
+}
+
+.cite-mid{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+cite{
+    font-family: oswald ;
+}
